@@ -8,9 +8,7 @@
 - Machine learning model (SARIMAX Model)
 - Email.js 
 
-## Demo Video 👇
 
-https://user-images.githubusercontent.com/84177086/211177742-99782e71-a60e-4591-9aa6-98ce188b4723.mp4
 
 
 ## :point_down:Steps to initialize the project:
@@ -18,7 +16,7 @@ https://user-images.githubusercontent.com/84177086/211177742-99782e71-a60e-4591-
 - Clone the repository
 
 ```
-$ git clone https://github.com/anjupriya-v/sales-prediction-analysis.git
+$ git clone https://github.com/anjupriya-v/sales-prediction-analysis.git](https://github.com/Vigneshwar-B/sales-forcasting.git)
 ```
 
 - Redirect to the cloned repo directory
