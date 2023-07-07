@@ -71,13 +71,8 @@ python -c 'import os; print(os.urandom(24))';
 
   https://www.youtube.com/watch?v=dgcYOm8n8ME
 
-### Email.js Content template screenshot 👇
 
-![image](https://user-images.githubusercontent.com/84177086/211178340-f9ddba76-db86-4405-bfef-d2a66d6043d3.png)
 
-### Email.js Auto reply template screenshot 👇
-
-![image](https://user-images.githubusercontent.com/84177086/211178388-403e071b-5ca8-4261-9aec-944d9193afac.png)
 
 
 - For starting the client, type the following in the command prompt
