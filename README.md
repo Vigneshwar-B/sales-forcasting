@@ -95,6 +95,6 @@ flask --app app --debug run
 
 - Note: This Application will be worked only for the following single dataset.
 
-[sales_data_sample.csv](https://github.com/anjupriya-v/sales-prediction-analysis/files/10367624/sales_data_sample.csv)
+[sales_data_sample.csv](https://github.com/Vigneshwar-B/salesforcasting/blob/a566b13c72e7d550ed186dd813c06c9f1197ea01/sales_data_sample.csv)
 
 
